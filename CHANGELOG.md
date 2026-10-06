@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 06/10/2026
+
+- Assinatura do autor no canto inferior direito de todas as telas.
+
 ## 0.1.0 — 06/10/2026
 
 - Primeira versão: calendário anual de feriados compartilhado, a partir do calendário bancário do

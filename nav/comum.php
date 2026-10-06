@@ -15,3 +15,7 @@
 </div>
 
 <div id="cal-toasts" class="cal-toasts"></div>
+
+<div style="position: fixed; bottom: 10px; right: 15px; font-size: 11px; color: #9ca3af; z-index: 9999; font-family: 'Inter', sans-serif; pointer-events: none;">
+    By Marcelo Silvestro
+</div>
